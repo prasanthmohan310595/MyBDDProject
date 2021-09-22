@@ -30,7 +30,7 @@
 //    public static void main(String[] args) {
 //
 //        //Selenium 4
-//        System.setProperty("webdriver.chrome.driver", "/Users/karthikkk/ChromeDriver/chromedriver");
+//        System.setProperty("webdriver.chrome.driver", "/Users/Prasanthkk/ChromeDriver/chromedriver");
 //        var chromeDriver = new ChromeDriver();
 //
 //        var chromeDevTools = chromeDriver.getDevTools();
