@@ -12,4 +12,8 @@
 hs_err_pid*
 
 # ignore IntelliJ metadata
-/.idea
+.idea/
+
+# ignore reports and compiled classes
+target/*
+*/cucumber.json
